@@ -1,0 +1,19 @@
+.title {
+  font-family: sans-serif;
+}
+
+.meat {
+  background-color: lightcoral;
+}
+
+.vegetable {
+  background-color: lightgreen;
+}
+
+.dairy {
+  background-color: lightyellow;
+}
+
+ol {
+  font-style: italic;
+}
